@@ -1,5 +1,5 @@
 package Unit3;
-//输出斐波那契数列                                                                                                          
+//输出斐波那契数列
 public class Unit3_10 {
     public static void main(String[] arges){
         int i,j,t;
