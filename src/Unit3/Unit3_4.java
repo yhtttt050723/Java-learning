@@ -14,7 +14,7 @@ public class Unit3_4 {
             x = input.nextDouble();
             i = i+1;
             s = s + Math.pow(x,2);
-        }while (x != 0 && s <= 1.0e3);
+        }while (x != 0 && s <= 1.0e+8);
         System.out.println("输入数据个数为：" + i);
         System.out.println("平方和为：" + s);
 
